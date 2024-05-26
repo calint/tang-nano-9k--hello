@@ -1,0 +1,11 @@
+{
+    "board": "tangnano9k",
+    "top": "Top",
+    "includedFiles": [
+        "src/Top.v",
+        "src/RAM.v"
+    ],
+    "testBenches": [
+        "src/Top_tb.v"
+    ]
+}
